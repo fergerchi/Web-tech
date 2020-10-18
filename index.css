@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://i.postimg.cc/bJFM747S/9420.jpg);
+    background-size: cover;
+    font-family: Garamond;
+    color:white;
+    text-align: center;
+
+}
+h1{
+    color: rgb(240, 54, 54);
+    font-family: Garamond;
+}
+p{
+    font-size: 15px;
+    font-weight: bolder;
+}
+img{
+    opacity: 90%;
+}
